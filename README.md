@@ -8,7 +8,6 @@ Este sistema foi desenvolvido com Python e possui a finalidade de funcionar em u
 
 ## Requisitos
 
-- Você precisará de:
 1) Um Raspberry Pi (qualquer modelo).
 2) Um leitor de código de barras.
 3) Um banco de dados com a estrutura do arquivo "script.sql" (estamos utilizando o Oracle, mas pode-se utilizar qualquer outro).
