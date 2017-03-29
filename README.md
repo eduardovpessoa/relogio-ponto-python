@@ -25,7 +25,7 @@ Este sistema foi desenvolvido com Python e possui a finalidade de funcionar em u
 
 ## Agradecimentos
 
-- https://github.com/alanecher
+- https://github.com/echer
 - https://github.com/duduvp
 - https://github.com/viniciussanchez
 - http://www.orasystems.com.br
