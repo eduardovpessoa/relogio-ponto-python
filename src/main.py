@@ -15,7 +15,7 @@ def start():
 def registra_ponto(codigo):
     conn = connection.connect()
     cursor = conn.cursor()
-    cursor.execute("SELECT F.COD_FUNCIONARIO FROM FUNCIONARIO F WHERE F.COD_BARRAS = %s" % codigo)
+    cursor.execute("SELECT F.ID_FUNCIONARIO FROM FUNCIONARIO F WHERE F.COD_BARRAS = %s" % codigo)
     resultado = cursor.fetchone()
     if resultado is None:
         connection.close(conn)
