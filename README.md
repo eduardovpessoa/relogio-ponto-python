@@ -1,4 +1,4 @@
-# Relógio de Ponto - OraSystems
+# Relógio de Ponto
 
 ### Sejam Bem Vindos! (Pull Requests são aceitas! ;D)
 
@@ -16,10 +16,10 @@ Este sistema foi desenvolvido com Python e possui a finalidade de funcionar em u
 
 1) Instale o leitor de código de barras no Raspberry Pi e crie a estrutura do banco de dados.
 2) Cadastre os funcionários e seus respectivos códigos na base de dados. 
-3) Copie esse projeto p/ o Raspberry e rode a aplicação com o seguinte comando:
+3) Copie esse projeto p/ o Raspberry, entre na pasta "src" e rode a aplicação com o seguinte comando:
 - python relogio.py
 
-### Pronto!! Basta realizar a leitura ;)
+### Pronto!! Basta realizar a leitura do crachá ;)
 
 
 ## Agradecimentos
